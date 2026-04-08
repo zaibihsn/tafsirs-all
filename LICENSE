@@ -672,3 +672,14 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+---
+
+### Data Sources and Attribution
+
+The content in this repository is compiled from multiple digital sources including but not limited to:
+- Quranic databases and community projects.
+- Digital editions of classical and modern tafsirs.
+- Academic and religious open-source repositories.
+
+Each individual tafsir remains the intellectual property of its respective author or publisher. This collection is provided for research, educational, and religious purposes under the terms of the GNU General Public License v3.0. Users are encouraged to verify accuracy and provide attribution to the original authors where required.
